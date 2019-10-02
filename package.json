@@ -1,0 +1,20 @@
+{
+  "name": "phpfetch",
+  "version": "0.1.0",
+  "description": "Small wrapper for fetch to keep global variables in PHP",
+  "main": "phpFetch",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mulahasanovic/phpfetch"
+  },
+  "keywords": [
+    "php",
+    "js",
+    "fetch"
+  ],
+  "author": "Sead Mulahasanović",
+  "license": "MIT"
+}
